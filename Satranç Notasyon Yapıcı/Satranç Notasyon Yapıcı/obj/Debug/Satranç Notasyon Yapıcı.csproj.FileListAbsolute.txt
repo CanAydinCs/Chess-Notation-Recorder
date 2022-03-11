@@ -1,0 +1,20 @@
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.exe.config
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.exe
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.pdb
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csprojAssemblyReference.cache
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç_Notasyon_Yapıcı.Form1.resources
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç_Notasyon_Yapıcı.Properties.Resources.resources
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csproj.GenerateResource.cache
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.exe
+D:\Masaüstü\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.pdb
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.exe.config
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.exe
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\bin\Debug\Satranç Notasyon Yapıcı.pdb
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csprojAssemblyReference.cache
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç_Notasyon_Yapıcı.Form1.resources
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç_Notasyon_Yapıcı.Properties.Resources.resources
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csproj.GenerateResource.cache
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.csproj.CoreCompileInputs.cache
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.exe
+D:\Bitirdiğim Projeler\Satranç Notasyon Yapıcı\Satranç Notasyon Yapıcı\obj\Debug\Satranç Notasyon Yapıcı.pdb
